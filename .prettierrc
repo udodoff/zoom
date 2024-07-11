@@ -1,0 +1,11 @@
+{
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "tabWidth": 4,
+  "quoteProps": "consistent",
+  "overrides": [
+    { "files": ["**/*.{scss,css}"], "options": { "order": "concentric-css" } }
+  ]
+}
